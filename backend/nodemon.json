@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "wojt175",
+    "DB_PASSWORD": "Pigula99",
+    "DB_NAME": "tokenTracker",
+    "BSC_SOCKET": "wss://dawn-wispy-dawn.bsc.quiknode.pro/f03f6085d8550400f416a0bc7282efd047818082/"
+  }
+}
